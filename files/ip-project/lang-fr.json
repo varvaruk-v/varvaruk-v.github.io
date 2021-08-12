@@ -1,0 +1,21 @@
+{
+    "status": "Statut",
+    "message": "Message",
+    "continent": "Continent",
+    "country": "Pays",
+    "region": "Région",
+    "city": "Ville",
+    "zip": "Code postal",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "timezone": "Timezone",
+    "currency": "Devise",
+    "isp": "Fournisseur",
+    "organization": "Organisation",
+    "as": "AS",
+    "asname": "AS Name",
+    "reverse": "Hôte",
+    "mobile": "Connexion mobile",
+    "proxy": "Proxy",
+    "hosting": "Hébergement"
+}

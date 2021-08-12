@@ -1,0 +1,21 @@
+{
+    "status": "Статус",
+    "message": "Сообщение",
+    "continent": "Континент",
+    "country": "Страна",
+    "region": "Регион",
+    "city": "Город",
+    "zip": "ZIP-код",
+    "latitude": "Широта",
+    "longitude": "Долгота",
+    "timezone": "Часовая зона",
+    "currency": "Валюта",
+    "isp": "Провайдер",
+    "organization": "Организация",
+    "as": "AS",
+    "asname": "AS Name",
+    "reverse": "Хост",
+    "mobile": "Мобильное подключение",
+    "proxy": "Прокси",
+    "hosting": "Хостинг"
+}
